@@ -7,9 +7,9 @@ I'm currently pursuing a Master's degree at the School of Future Technology (Ins
 <code>zhangyinrong@shu.edu.cn</code>
 
 #### Education  
-**上海大学** - 未来技术学院（人工智能研究院）- 人工智能专业 - 2025级硕士研究生在读  
+**上海大学** - 未来技术学院（人工智能研究院）- 人工智能专业 - 硕士研究生在读（2025级）  
 
 **上海应用技术大学** - 计算机科学与信息工程学院 - 人工智能专业 - 本科 
 
 #### Research Interests  
-具身智能/机器人/强化学习/多模态
+具身智能 / 机器人 / 强化学习 / 多模态
