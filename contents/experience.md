@@ -1,5 +1,5 @@
 ### **Software Engineer Intern**  
-**March 2026 – Present | Unity China  
+**March 2026 – Present | Unity China**  
 
 ---
 
